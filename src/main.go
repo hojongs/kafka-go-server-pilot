@@ -10,7 +10,7 @@ import (
 
 var topic = "my-topic"
 var partition = 0
-var kafkaUrl = "kafka:9092"
+var kafkaUrl = "localhost:9092"
 
 func main() {
 	println("hello world")
